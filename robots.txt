@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xieliekooz.derekm.tech/sitemap.xml
